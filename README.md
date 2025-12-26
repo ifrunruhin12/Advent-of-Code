@@ -62,7 +62,6 @@ Some puzzles include interactive GUI visualizers that demonstrate the solution p
 - **Visual feedback** - See the problem and solution visually represented
 - **Play/Pause/Reset** - Full control over the visualization
 
-
 ## 📊 Progress
 
 | Day | Part 1 | Part 2 | Visualizer |
@@ -70,6 +69,7 @@ Some puzzles include interactive GUI visualizers that demonstrate the solution p
 | 1   | ⭐     | ⭐     | ✅         |
 | 2   | ⭐     | ⭐     | ✅         |
 | 3   | ⭐     | ⭐     | ✅         |
+| 4   | ⭐     | ⭐     | ✅         |
 | ... | ...    | ...    | ...        |
 
 _⭐ = Completed | ✅ = Has Visualizer | ❌ = No Visualizer_
