@@ -62,15 +62,6 @@ Some puzzles include interactive GUI visualizers that demonstrate the solution p
 - **Visual feedback** - See the problem and solution visually represented
 - **Play/Pause/Reset** - Full control over the visualization
 
-<div align="center">
-
-### Example: Day 1 - Circular Lock
-
-![Circular Lock Demo](https://via.placeholder.com/600x400/1a1a1a/00ff00?text=Circular+Lock+Visualizer)
-
-_Interactive visualization showing the circular lock rotation and zero crossings_
-
-</div>
 
 ## 📊 Progress
 
@@ -78,7 +69,7 @@ _Interactive visualization showing the circular lock rotation and zero crossings
 | --- | ------ | ------ | ---------- |
 | 1   | ⭐     | ⭐     | ✅         |
 | 2   | ⭐     | ⭐     | ✅         |
-| 3   | ⭐     | ⭐     | ❌         |
+| 3   | ⭐     | ⭐     | ✅         |
 | ... | ...    | ...    | ...        |
 
 _⭐ = Completed | ✅ = Has Visualizer | ❌ = No Visualizer_
@@ -103,7 +94,6 @@ Solutions prioritize clarity and correctness over performance optimization. Each
 ## 🔗 Links
 
 - [Advent of Code Official Website](https://adventofcode.com/)
-- [My AoC Profile](https://adventofcode.com/2024/leaderboard/private)
 - [Python Documentation](https://docs.python.org/3/)
 - [PyQt6 Documentation](https://www.riverbankcomputing.com/static/Docs/PyQt6/)
 
