@@ -27,6 +27,7 @@ def solve(grid_str: str) -> int:
 
     return accessible
 
+# Read input from file and solve
 with open("input.txt", "r") as f:
     grid_input = f.read()
 
